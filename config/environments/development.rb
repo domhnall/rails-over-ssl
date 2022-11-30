@@ -71,4 +71,5 @@ Rails.application.configure do
   # Permit SSL requests in development
   config.hosts << "dev.vector-logic.com"
   config.hosts << ".eu.ngrok.io"
+  config.force_ssl = (ENV['WITH_SSL']=="true")
 end
