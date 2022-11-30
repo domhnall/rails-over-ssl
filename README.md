@@ -3,7 +3,7 @@
 This repo contains the example application which was constructed to
 support the VectorLogic blog post:
 
-https://www.vector-logic.com/blog/posts/options-for-serving-rails-over-ssl-locally
+https://www.vector-logic.com/blog/posts/rails-development-ssl-service-workers-and-self-signed-certs
 
 which explores how we can run our Rails app over HTTPS in our local
 development environment.
